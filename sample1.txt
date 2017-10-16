@@ -6,6 +6,6 @@
 </head>
 
 <body>
-<p>В±ВсВ…ВњВЌ</p>
+<p>git-practice2В≈ВћХѕНX</p>
 </body>
 </html>
