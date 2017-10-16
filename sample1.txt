@@ -6,6 +6,6 @@
 </head>
 
 <body>
-<p>git-practice1での変更</p>
+<p>git-practice1での変更とgit-practice2での変更をマージ</p>
 </body>
 </html>
